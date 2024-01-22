@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Header
+![Header](https://github.com/natawgxy/natawgxy/blob/main/assets/NATAWGXY.png)
 
 About me
 
